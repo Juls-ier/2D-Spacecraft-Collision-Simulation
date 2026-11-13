@@ -50,18 +50,23 @@ Collision detection is based on geometric intersection between line segments rep
 The spacecraft geometry is loaded as a list of 2D points:
 
 x y
+
 x y
+
 x y
+
 ...
 
 
 The spacecraft state file contains its position and velocity:
 
 position_x position_y
+
 velocity_x velocity_y
 
 Projectile data contains:
 
 time x y ve
+
 locity_x velocity_y
 
