@@ -68,5 +68,5 @@ Projectile data contains:
 
 time x y ve
 
-locity_x velocity_y
+velocity_x velocity_y
 
